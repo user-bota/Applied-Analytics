@@ -11,7 +11,7 @@ This lab applies multiple time series analysis techniques using R to explore tre
 - **Men’s 400m Olympic Data:** A linear trend regression (R² ≈ 0.823) effectively modeled the decrease in winning times, predicting the 2020 Olympic time (43.85s) with near-perfect accuracy.
 
 **How to Run:**  
-1. Open the `.R` script in **RStudio**.  
+1. Open the `STAT 223 Lab 6.R` script in **RStudio**.  
 2. Load the provided time series datasets (e.g., arrivals, usdeaths, beer, IBM, mens400).  
 3. Run all code chunks to generate seasonal plots, ACFs, and forecasts.
 
