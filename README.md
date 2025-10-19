@@ -2,7 +2,7 @@
 
 This repository contains my lab projects from **STAT 223 – Applied Analytics** at Knox College.  
 Each lab applies statistical and machine learning techniques using **R** and **Python** to explore, model, and interpret real-world data.  
-The work demonstrates skills in data wrangling, visualization, regression, forecasting, classification, and clustering — connecting analytics theory to practical business and social insights.
+The work demonstrates skills in data wrangling, visualization, regression, forecasting, classification, and clustering, connecting analytics theory to practical business and social insights.
 
 
 
